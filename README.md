@@ -1,0 +1,1 @@
+These files are created using version 14 build 1 of SuperPro Designer. These files can only be opened using the version 14 and later or can be accessed using the latest trial version of SuperPro Designer available on www.intelligen.com.
